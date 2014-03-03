@@ -1,7 +1,8 @@
 h1 {
   color: green;
+  /* Multiple matches must be met */
+  /* Multiple but any one that matches will trigger */
 }
-
 @media (min-width: 30em) {
   h1 {
     color: red;
@@ -13,8 +14,6 @@ h1 {
     background-color: lightblue;
   }
 }
-/* Multiple matches must be met */
-/* Multiple but any one that matches will trigger */
 @media (min-width: 50em) {
   h1 {
     color: black;

@@ -2,24 +2,21 @@
 //   width:215px;
 //   height:269px;
 //   background: url(../img/interesting-1x.jpg) no-repeat top left;
-// }
 
 /* Correct MQ for pixel ratio */
 
-// @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){
-//   .retina-test {
-//     width:430px;
-//     height:538px;
-//     background: url(../img/interesting-2x.jpg) no-repeat top left;
-//   }
-// }
+    // @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){
+    //     width:430px;
+    //     height:538px;
+    //     background: url(../img/interesting-2x.jpg) no-repeat top left;
+    // }
 
 /* MQ for showing what it does since you cant fake pixel ratio */
 
-// @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-width:50em) {
-//   .retina-test {
-//     width:430px;
-//     height:538px;
-//     background: url(../img/interesting-2x.jpg) no-repeat top left;
-//   }
+    // @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-width:50em) {
+    //     width:430px;
+    //     height:538px;
+    //     background: url(../img/interesting-2x.jpg) no-repeat top left;
+    // }
 // }
+
